@@ -1,0 +1,6 @@
+*{overflow-x: hidden;  margin :0px; padding:0px;}
+#cont{height:auto; width:100vw; }
+h1{margin-bottom: 5vh;}
+.list {margin-left: 6vw;}
+.list ol li{color: black;}
+.list p {text-align: center;}
