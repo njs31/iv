@@ -11,3 +11,4 @@ p{font-family: 'Bungee Spice', sans-serif; text-align: center; font-size: 5vh;}
  .plan h1{font-family: 'Rubik Glitch', system-ui; color:blue; font-size: 5vh; margin-bottom: 4vh;}
  .plan{display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 4vh;}
  .plan h2{font-family: 'Rubik Doodle Shadow', system-ui; font-size: 4vh; margin-bottom: 9vh;}
+.nav a{text-align:center;}
