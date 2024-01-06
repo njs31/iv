@@ -76,16 +76,20 @@
       </div>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.clouds.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.topology.min.js"></script>
 <script>
-VANTA.CLOUDS({
+VANTA.TOPOLOGY({
   el: "#cont",
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
   minHeight: 200.00,
-  minWidth: 200.00
+  minWidth: 200.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0x667c18,
+  backgroundColor: 0xefe8d9
 })
 </script>
   </body>
