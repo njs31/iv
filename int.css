@@ -1,4 +1,7 @@
 *{overflow-x: hidden;  margin :0px; padding:0px;}
+html {
+  scroll-behavior: smooth;
+}
 #cont{height:auto; width:100vw; }
 h1{margin-bottom: 5vh;}
 .list {margin-left: 6vw;}
