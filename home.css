@@ -7,7 +7,7 @@ html {
 h1{color: black;}
 p{font-family: 'Bungee Spice', sans-serif; text-align: center; font-size: 5vh;}
 .nav{height:15vh; width: 100vw; border-bottom: 1px dotted black;display: flex; flex-direction: column; justify-content: center; }
-.nav ul li{margin-bottom: 2vh; margin-left: 2vw;}
+.nav ul li{margin-bottom: 2vh; margin-left: 2vw;text-align:center;}
  .plan h1{font-family: 'Rubik Glitch', system-ui; color:blue; font-size: 5vh; margin-bottom: 4vh;}
  .plan{display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 4vh;}
  .plan h2{font-family: 'Rubik Doodle Shadow', system-ui; font-size: 4vh; margin-bottom: 9vh;}
